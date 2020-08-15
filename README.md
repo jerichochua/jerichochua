@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://github.com/jerichochua/jerichochua/blob/master/loading.gif" width="50" height="50"/>
+</div>
+
 <!--
 **jerichochua/jerichochua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
