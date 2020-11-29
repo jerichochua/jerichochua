@@ -2,7 +2,7 @@
 
 - 😄 Pronouns:  He/Him
 - 🔭 I’m currently studying: **Computer Engineering** at NUS
-- 🌱 I’m currently learning: Software Engineering and Object-Oriented Programming
+- 🌱 I’m currently learning: -
 
 <!--
 **jerichochua/jerichochua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
