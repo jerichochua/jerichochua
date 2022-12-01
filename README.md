@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 😄 Pronouns:  He/Him
-- 🔭 I’m currently studying: **Computer Engineering** at NUS (Final year!)
-- 🌱 I’m currently learning: Parallel Computing, Formal Methods for Software Engineering, Data Engineering Principles
+- 🔭 I’m currently studying: **Computer Engineering** at NUS (Final year)
+- 🌱 I’m currently learning: -
 
 <!--
 **jerichochua/jerichochua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
